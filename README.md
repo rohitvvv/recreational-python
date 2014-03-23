@@ -1,5 +1,5 @@
 recreational-python
 ===================
 
-Repository where I hold all recreation python code. 
+Repository where I hold all recreational python code. 
 
